@@ -1,0 +1,46 @@
+{
+    "askYourQuestion": "Ask your question",
+    "@askYourQuestion": {
+      "description": "Ask your question"
+    },
+    "tapOrDragTheCenterToGetAnAnswer": "Tap or drag the center to get an answer",
+    "@tapOrDragTheCenterToGetAnAnswer": {
+      "description": "Tap or drag the center to get an answer"
+    },
+    "thinking": "Thinking...",
+    "@thinking": {
+      "description": "Thinking"
+    },
+    "theFutureisBright": "The Future is Bright",
+    "@theFutureisBright": {
+      "description": "The Future is Bright"
+    },
+    "yourLuckIsAboutToChange": "Your luck is about to change",
+    "@yourLuckIsAboutToChange": {
+      "description": "Your luck is about to change"
+    },
+    "followYourDreams": "Follow your dreams",
+    "@followYourDreams": {
+      "description": "Follow your dreams"
+    },
+    "dontGiveUp": "Don't give up",
+    "@dontGiveUp": {
+      "description": "Don't give up"
+    },
+    "everythingIsGoingToBeOk": "Everything is going to be Ok",
+    "@everythingIsGoingToBeOk": {
+      "description": "Everything is going to be Ok"
+    },
+    "iDontThinkSo": "I don't think so",
+    "@iDontThinkSo": {
+      "description": "I don't think so"
+    },
+    "probablyYes": "Probably yes",
+    "@probablyYes": {
+      "description": "Probably yes"
+    },
+    "maybeInAFuture": "Maybe in a future",
+    "@maybeInAFuture": {
+      "description": "Maybe in a future"
+    }
+}

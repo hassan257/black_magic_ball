@@ -1,0 +1,33 @@
+name: black_magic_ball
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  admob_widgets: ^1.3.0
+  flutter:
+    sdk: flutter
+  flutter_localization: ^0.1.13
+  flutter_localizations:
+    sdk: flutter
+  google_mobile_ads: ^6.0.0
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/logo.png"
+  adaptive_icon_background: "assets/icon/logo.png"
+
+flutter:
+  uses-material-design: true
+  generate: true
